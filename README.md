@@ -2,7 +2,7 @@
 
 **Project Type:** Academic / Programming Fundamentals (PBL Project)  
 **Language:** C++  
-**Author:** Muhammad Abdullah bin Amir  
+**Author:** Muhammad Abdullah Bin Aamer  
 **Institution:** National University of Technology (NUTECH), Islamabad  
 
 ---
